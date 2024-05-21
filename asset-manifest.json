@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/harshmahalle/Plan-with-me.git/static/css/main.ab55ad9e.css",
-    "main.js": "/harshmahalle/Plan-with-me.git/static/js/main.2e518061.js",
-    "static/js/787.5aded424.chunk.js": "/harshmahalle/Plan-with-me.git/static/js/787.5aded424.chunk.js",
-    "index.html": "/harshmahalle/Plan-with-me.git/index.html",
-    "main.ab55ad9e.css.map": "/harshmahalle/Plan-with-me.git/static/css/main.ab55ad9e.css.map",
-    "main.2e518061.js.map": "/harshmahalle/Plan-with-me.git/static/js/main.2e518061.js.map",
-    "787.5aded424.chunk.js.map": "/harshmahalle/Plan-with-me.git/static/js/787.5aded424.chunk.js.map"
+    "main.css": "/Plan-with-me/static/css/main.ab55ad9e.css",
+    "main.js": "/Plan-with-me/static/js/main.5418bab9.js",
+    "static/js/787.5aded424.chunk.js": "/Plan-with-me/static/js/787.5aded424.chunk.js",
+    "index.html": "/Plan-with-me/index.html",
+    "main.ab55ad9e.css.map": "/Plan-with-me/static/css/main.ab55ad9e.css.map",
+    "main.5418bab9.js.map": "/Plan-with-me/static/js/main.5418bab9.js.map",
+    "787.5aded424.chunk.js.map": "/Plan-with-me/static/js/787.5aded424.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ab55ad9e.css",
-    "static/js/main.2e518061.js"
+    "static/js/main.5418bab9.js"
   ]
 }
